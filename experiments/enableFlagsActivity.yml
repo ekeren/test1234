@@ -2,4 +2,4 @@ flag: enableFlagsActivity
 type: experiment
 name: enable flags activity
 stickinessProperty: rox.distinct_id
-value: true
+value: false
