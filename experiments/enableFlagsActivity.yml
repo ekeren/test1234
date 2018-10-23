@@ -4,6 +4,4 @@ name: enable flags activity
 stickinessProperty: rox.distinct_id
 value:
   - option: true
-    percentage: 50
-  - option: false
-    percentage: 50
+    percentage: 100
