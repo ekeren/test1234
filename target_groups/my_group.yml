@@ -1,0 +1,9 @@
+name: my group
+description: ''
+jsCondition:
+  operator: inArray
+  operands:
+    - operator: property
+      operands:
+        - userId
+    - - abcd1234
