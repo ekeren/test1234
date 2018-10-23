@@ -2,7 +2,8 @@ flag: enableFlagsActivity
 type: experiment
 name: enable flags activity
 stickinessProperty: rox.distinct_id
-value: 
- - percentage: 25
-   option: true
-
+value:
+  - option: true
+    percentage: 25
+  - option: false
+    percentage: 75
