@@ -1,0 +1,9 @@
+flag: titleColors
+type: experiment
+name: title colors
+stickinessProperty: rox.distinct_id
+availableValues:
+  - YELLOW
+  - WHITE
+  - BLUE
+value: []
