@@ -1,0 +1,23 @@
+name: title colors
+description: ''
+labels: []
+seed: bc6efa67e1d8d5b8
+stickinessProperty: rox.distinct_id
+platforms:
+  - deploymentConfiguration:
+      targeting:
+        - weight:
+            - option: YELLOW
+              value: 0
+            - option: WHITE
+              value: 0
+            - option: BLUE
+              value: 0
+          flag: []
+          groupLogicGate: or
+          group:
+            - All Users
+          type: all
+    flag:
+      name: titleColors
+      platform: __ROLLOUT_DEFAULT__
