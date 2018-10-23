@@ -1,7 +1,0 @@
-flag: enableFlagsActivity
-type: experiment
-name: enable flags activity
-stickinessProperty: rox.distinct_id
-value:
-  - option: true
-    percentage: 95
