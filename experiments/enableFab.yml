@@ -1,0 +1,12 @@
+flag: enableFab
+type: experiment
+name: enable fab
+stickinessProperty: rox.distinct_id
+platforms:
+  - name: Android
+    value: true
+    conditions:
+      - value: false
+        group:
+          name: my group
+          operator: nor
