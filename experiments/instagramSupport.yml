@@ -1,0 +1,7 @@
+flag: instagramSupport
+type: experiment
+name: instagram support
+platforms:
+  - name: iOS
+    value: true
+value: false
