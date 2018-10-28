@@ -1,0 +1,7 @@
+flag: default.row_comments
+type: experiment
+name: row comments
+platforms:
+  - name: iOS
+    value: true
+value: false
