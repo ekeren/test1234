@@ -1,0 +1,15 @@
+flag: pricingPlan2222
+type: experiment
+name: pricing plan 2222
+archived: true
+availableValues:
+  - Med
+  - Low
+  - High
+  - Free
+labels:
+  - gradual
+platforms:
+  - name: iOS
+    value: Med
+value: []
