@@ -7,4 +7,6 @@ platforms:
 conditions:
   - group:
       name: adsds
-value: false
+value:
+  - option: true
+    percentage: 4
