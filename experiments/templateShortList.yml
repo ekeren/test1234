@@ -1,0 +1,8 @@
+flag: templateShortList
+type: experiment
+name: template short list
+conditions:
+  - value: true
+    group:
+      name: Internal employess
+value: false
