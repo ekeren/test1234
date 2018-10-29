@@ -4,11 +4,6 @@ name: row comments
 platforms:
   - name: Tizen
     value: false
-conditions:
-  - group:
-      name:
-        - adsds
-        - a
 value:
   - option: true
-    percentage: 3
+    percentage: 26
