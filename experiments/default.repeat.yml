@@ -1,0 +1,8 @@
+flag: default.repeat
+type: experiment
+name: repeat
+platforms:
+  - name: Browser
+    value: true
+  - name: Tizen
+    value: false
