@@ -6,4 +6,4 @@ platforms:
     value: false
 value:
   - option: true
-    percentage: 3
+    percentage: 33
