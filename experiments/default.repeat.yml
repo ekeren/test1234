@@ -5,4 +5,4 @@ platforms:
   - name: Browser
     value: true
   - name: Tizen
-    value: false
+    value: true
