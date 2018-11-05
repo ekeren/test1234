@@ -4,4 +4,4 @@ name: row comments
 platforms:
   - name: iOS
     value: true
-value: true
+value: false
