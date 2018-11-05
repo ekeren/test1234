@@ -2,8 +2,6 @@ flag: default.row_comments
 type: experiment
 name: row comments
 platforms:
-  - name: Tizen
-    value: false
-value:
-  - option: true
-    percentage: 27
+  - name: iOS
+    value: true
+value: true
