@@ -3,5 +3,12 @@ type: experiment
 name: instagram support
 platforms:
   - name: iOS
-    value: true
+    value: false
+    conditions:
+      - value: true
+        group:
+          name: Internal employess
+      - value:
+          - option: true
+            percentage: 10
 value: false
