@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://qax.rollout.io/ex/5bcc7b823e4bc45fd2cac695
+flag: templateShortList
+type: experiment
+name: template short list
+conditions:
+  - value: true
+    group:
+      name: Internal employess
+value: false
