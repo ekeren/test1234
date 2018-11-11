@@ -1,9 +1,0 @@
-type: target-group
-name: Internal employess
-conditions:
-  - operator: in-array
-    property: email
-    operand:
-      - eyal1
-      - erez
-      - alex
