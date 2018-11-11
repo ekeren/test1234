@@ -1,6 +1,0 @@
-# This file was edited by rollout.io
-# URL: https://qax.rollout.io/ex/5bcecb6a558c9763b8c1a89c
-flag: borderEditor
-type: experiment
-name: border editor
-value: false
