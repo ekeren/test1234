@@ -1,0 +1,17 @@
+# This file was edited by rollout.io
+# URL: https://qax.rollout.io/ex/5aec3a1a4d19d57925cd07bf
+flag: sendFeedbackForIronSource
+type: experiment
+name: send feedback for iron source
+labels:
+  - gradual
+  - nice to have
+platforms:
+  - name: iOS
+    value: false
+    conditions:
+      - dependency:
+          flag: instagramSupport
+          value: 'true'
+        group:
+          name: Internal employess
