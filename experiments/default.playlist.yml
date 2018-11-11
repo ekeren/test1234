@@ -1,0 +1,11 @@
+# This file was edited by rollout.io
+# URL: https://qax.rollout.io/ex/5bcc7c2d558c9763b8c19cae
+flag: default.playlist
+type: experiment
+name: playlist
+platforms:
+  - name: iOS
+    value: false
+value:
+  - option: true
+    percentage: 50
