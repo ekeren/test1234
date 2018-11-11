@@ -1,8 +1,0 @@
-type: target-group
-name: English users
-conditions:
-  - operator: in-array
-    property: Country
-    operand:
-      - UK
-      - US
