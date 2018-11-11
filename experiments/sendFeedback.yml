@@ -1,7 +1,0 @@
-flag: sendFeedback
-type: experiment
-name: send feedback
-platforms:
-  - name: iOS
-    value: false
-value: false
