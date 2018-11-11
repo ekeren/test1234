@@ -1,0 +1,9 @@
+# This file was edited by rollout.io
+# URL: https://qax.rollout.io/ex/5b6aec92e401ec18aef1bd87
+flag: sendFeedback
+type: experiment
+name: send feedback
+platforms:
+  - name: iOS
+    value: false
+value: false
