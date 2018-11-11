@@ -1,9 +1,0 @@
-flag: default.playlist
-type: experiment
-name: playlist
-platforms:
-  - name: iOS
-    value: false
-value:
-  - option: true
-    percentage: 50
